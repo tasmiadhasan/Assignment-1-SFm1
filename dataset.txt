@@ -1,0 +1,48 @@
+Data Set Size: 1000
+Insertion Sort Time: 3.0040 ms
+Merge Sort Time: 0.9960 ms
+Heap Sort Time: 0.0000 ms
+Quick Sort Time: 1.0001 ms
+
+Data Set Size: 5000
+Insertion Sort Time: 81.6506 ms
+Merge Sort Time: 5.9949 ms
+Heap Sort Time: 3.8822 ms
+Quick Sort Time: 1.0014 ms
+
+Data Set Size: 7000
+Insertion Sort Time: 156.3574 ms
+Merge Sort Time: 6.9956 ms
+Heap Sort Time: 4.5940 ms
+Quick Sort Time: 1.9977 ms
+
+Data Set Size: 10000
+Insertion Sort Time: 323.0866 ms
+Merge Sort Time: 12.9950 ms
+Heap Sort Time: 6.0286 ms
+Quick Sort Time: 4.0102 ms
+
+
+Data Set Size: 30000
+Insertion Sort Time: 2893.3284 ms
+Merge Sort Time: 34.9985 ms
+Heap Sort Time: 25.0044 ms
+Quick Sort Time: 14.0523 ms
+
+Data Set Size: 50000
+Insertion Sort Time: 8792.0231 ms
+Merge Sort Time: 73.8140 ms
+Heap Sort Time: 40.9762 ms
+Quick Sort Time: 20.9358 ms
+
+Data Set Size: 70000
+Insertion Sort Time: 17600.8883 ms
+Merge Sort Time: 94.7368 ms
+Heap Sort Time: 61.1121 ms
+Quick Sort Time: 31.2108 ms
+
+Data Set Size: 100000
+Insertion Sort Time: 40527.5582 ms
+Merge Sort Time: 396.7451 ms
+Heap Sort Time: 154.9938 ms
+Quick Sort Time: 51.8266 ms
